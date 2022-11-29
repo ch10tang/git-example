@@ -42,18 +42,21 @@ TAs Josh, Jeff
 11. 製作教材，避免使用顏色不顯眼的圖示當作範例。
 12. 製作練習題，請確認該練習題能讓學生學習到的內容，請避免更換某一參數後，答案一樣的情況發生。
 
-**上課**
+上課
+-
 1. 確認投影機、麥克筆、冷氣是否都能使用。
 2. 假若麥克風沒電，前方櫃子都有備品可以使用；假若沒有請連絡許志堯先生。
 3. 下課前確認老師使用的麥克風、滑鼠是否都有帶走。
 
-**作業、考試**
+作業、考試
+-
 1. 請同學將程式碼轉成 .py file後再繳交。
 2. 課堂作業"一定"要提供作業解答，期中/期末review前會需要釋出。
 3. 每次下課前，都要和老師確認作業繳交時間。
 4. 任何成績檔案(DSS_2021_Score_Final.xlsx)上傳需刪除名字、並使用pdf檔上傳，切勿使用原檔案。
 
-**Presentation**
+Presentation
+-
 1. 請碩一學弟前一天準備錄影設備，包括 1) 攝影機與腳架；2) 電池與備品要提前充電；3) 記憶體要清空。
 2. 當日報告11:00前請學生上傳slides。
 3. 當日12:10公布Presentation order，並在白板上寫上順序。
@@ -71,13 +74,15 @@ TAs Josh, Jeff
 	
 
 
-**DSS2022 可考慮使用教材**
+DSS2022 可考慮使用教材
+-
 1. Convolution內容介紹 https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter5_cnns-pt1.html
 2. 周博士Detectron教材之後可編入
 
 
 
-**Update Progress**
+Update Progress
+-
 20210928 Update-Josh
 20211004 Update-Josh
 20211009 Update-Josh
