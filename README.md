@@ -7,8 +7,8 @@ TAs Josh, Jeff
 - 課堂教材請在上課當天早上就先上傳，即便內容需要在修改(假如有修改，事後再更新Moodle上內容即可)。 
 
 *資料夾結構*
+	
 	|-- _Backup
-
 	|-- Class_Exam: 期中期末考考卷與程式碼
 	|-- Class_Exercise: 課堂練習與作業
 		|-- _Solution
