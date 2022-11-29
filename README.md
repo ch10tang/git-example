@@ -8,7 +8,9 @@ TAs Josh, Jeff
 
 *資料夾結構*
 	|-- _Backup
+
 	|-- Class_Exam: 期中期末考考卷與程式碼
+
 	|-- Class_Exercise: 課堂練習與作業
 		|-- _Solution
 		|-- Ch1
