@@ -56,6 +56,7 @@ TAs Josh, Jeff
 2. 當日報告11:00前請學生上傳slides。
 3. 當日12:10公布Presentation order，並在白板上寫上順序。
 4. 白板上寫下以下報告須注意項目
+
 	4.1 Topic and IDs/names of teammates
 	4.2 Problem statement. What is the problem? Why is it important?
 	4.3 Solution. Where is your solution from? Github provided by us? have you found anything else? 
