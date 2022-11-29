@@ -83,12 +83,12 @@ DSS2022 可考慮使用教材
 
 Update Progress
 -
-20210928 Update-Josh
-20211004 Update-Josh
-20211009 Update-Josh
-20211009 Update-Jeff
-20211017 Update-Josh
-20211021 Update-Jeff
-20211104 Update-Jeff
-20211123 Update-Josh
-20220103 Update-Jeff
+- 20210928 Update-Josh
+- 20211004 Update-Josh
+- 20211009 Update-Josh
+- 20211009 Update-Jeff
+- 20211017 Update-Josh
+- 20211021 Update-Jeff
+- 20211104 Update-Jeff
+- 20211123 Update-Josh
+- 20220103 Update-Jeff
