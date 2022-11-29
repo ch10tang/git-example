@@ -58,9 +58,13 @@ TAs Josh, Jeff
 4. 白板上寫下以下報告須注意項目
 
 	4.1 Topic and IDs/names of teammates
+	
 	4.2 Problem statement. What is the problem? Why is it important?
+	
 	4.3 Solution. Where is your solution from? Github provided by us? have you found anything else? 
+	
 	4.4 Have you tested the solution(s)? On what datasets?
+	
 	4.5 What will you do next based on your current progress?
 	
 
